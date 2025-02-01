@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual Environment
+venv/
+
+# Environment Variables
+.env
+
+# IDE Files
+.vscode/
+.idea/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Other temporary files
+*.log
